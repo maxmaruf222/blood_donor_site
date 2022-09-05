@@ -1,0 +1,14 @@
+**Database Name: blood_donor**
+
+**Developed by Maruf Hassan**
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+
+**Donor Login Details**
+
+Username: user
+Password: user
